@@ -1,6 +1,6 @@
 
 import './App.css';
-import Educationalexperience from './components/Educationalexperience';
+import Educationalexp from './components/Educationalexp';
 import Generalinfo from './components/Generalinfo';
 import Practicalexperience from './components/Practicalexperience';
 
@@ -8,8 +8,9 @@ function App() {
   return (
     <div className="App">
       <Generalinfo/>
-      <Educationalexperience/>
+      <Educationalexp/>
       <Practicalexperience/>
+      
     </div>
   );
 }
