@@ -8,7 +8,7 @@ function educationalexperience() {
       <div class="details2">
         <p>School: Obafemi Awolowo University</p>
         <p>Title of study: Civil Engineering</p>
-        <p>Date of study: 2015-2021</p>
+        <p>Date of study: 2015-202</p>
       </div>
     </div>
   )
