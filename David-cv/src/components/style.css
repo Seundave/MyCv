@@ -1,0 +1,60 @@
+*{
+    text-align:left;
+}
+.row{
+    height:150px;
+    width:100%;
+    color:white;
+    position:absolute;
+    background-color: rgb(124, 0, 124);
+}
+
+.Name{
+    float:left;
+    width:30%;
+}
+
+.details{
+    float:right;
+    width:30%;
+}
+
+.clear{
+    clear:both;
+}
+
+.row2{
+    height:150px;
+    width:100%;
+    color: black;
+    
+}
+
+.educationalexp{
+    float:left;
+    color:rgb(124, 0, 124);
+}
+
+.details2{
+    
+}
+
+.row3{
+    height:100px;
+    width:100%;
+    color:black;
+    
+}
+
+.practicalexp{
+    color:rgb(124, 0, 124);
+    margin-right: 150px;
+}
+
+.practicaldetails{
+    
+}
+
+
+
+
