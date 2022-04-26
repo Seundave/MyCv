@@ -26,24 +26,24 @@
 .row2{
     height:150px;
     width:100%;
-    color: black;
-    
+    color: black; 
 }
 
 .educationalexp{
     float:left;
     color:rgb(124, 0, 124);
+    margin-top: 200px;
 }
 
 .details2{
-    
+    margin-top: 250px;
 }
 
 .row3{
     height:100px;
     width:100%;
     color:black;
-    
+    margin-top:250px;
 }
 
 .practicalexp{
